@@ -39,4 +39,4 @@ export const createApp = () => {
   app.use(errorHandler);
   return app;
 };
-ssh-keygen -t ed25519 -C "tobepersonnalmail@gmail.com"
+
